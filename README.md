@@ -1,6 +1,6 @@
 # Dataset - Modelos Preditivos Conexionistas 2022.01
 
-### Nome do aluno
+### Karine Kelly Santos da Silva 
 
 |**Tipo de Projeto**|**Qtde de imagens por classe**|**Qtde de classes**|
 |--|--|--|
