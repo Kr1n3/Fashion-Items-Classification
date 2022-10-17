@@ -4,6 +4,6 @@
 
 |**Tipo de Projeto**|**Qtde de imagens por classe**|**Qtde de classes**|
 |--|--|--|
-|ex.: Classificação de Imagens<br>ou<br>Deteção de Objetos|ex.: 50|ex.: 3|
+|Classificação de Imagens<br>|50|5|
 
-### Informações Adicionais
+### Dataset com imagens de peças de moda feminina.
