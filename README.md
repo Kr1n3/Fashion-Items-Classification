@@ -361,7 +361,7 @@ https://wandb.ai/kr1n3/YOLOv5-Classify/reports/Fashion-Items-Classification--Vml
 
 Nessa seção deve colocar o link para acessar o dataset no Roboflow
 
-https://app.roboflow.com/pos/clothing-classification-4xbvj/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
+https://universe.roboflow.com/pos/clothing-classification-4xbvj
 
 ## HuggingFace
 
