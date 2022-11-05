@@ -356,6 +356,8 @@ Visualize:       https://netron.app
 Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
 
 https://wandb.ai/kr1n3/YOLOv5-Classify/reports/Fashion-Items-Classification--VmlldzoyOTAwNDAw?accessToken=oqmolo6sg3rc3e0fl95yg6waaoxhtw41jd01jxqdacrpx43suly3mwizdq1hm04o
+  
+  ![Descrição](blob:https://web.whatsapp.com/577ab0b1-b238-47da-876b-f7026e8f4b8e)
 
 ## Roboflow
 
