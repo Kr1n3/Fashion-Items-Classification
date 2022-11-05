@@ -365,4 +365,4 @@ https://universe.roboflow.com/pos/clothing-classification-4xbvj
 
 ## HuggingFace
 
-Nessa seção você deve publicar o link para o HuggingFace
+https://huggingface.co/spaces/Kr1n3/Fashion-Items-Classification
