@@ -1,16 +1,10 @@
-# Projeto Final - Modelos Preditivos Conexionistas
-
-### Karine Kelly Santos da Silva
-
-|**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
-|--|--|--|
-|Classificação de Imagens|YOLOv5|PyTorch|
+|**Image Classifier|YOLOv5|PyTorch|**
 
 ## Performance
 
-O modelo treinado possui performance de **78,4%**.
+The trained model has performance of **78,4%**.
 
-### Output do bloco de treinamento
+### Output 
 
 <details>
   <summary>Click to expand!</summary>
@@ -351,16 +345,7 @@ Visualize:       https://netron.app
   ```
 </details>
 
-### Evidências do treinamento
-
-Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
-
-https://wandb.ai/kr1n3/YOLOv5-Classify/reports/Fashion-Items-Classification--VmlldzoyOTAwNDAw?accessToken=oqmolo6sg3rc3e0fl95yg6waaoxhtw41jd01jxqdacrpx43suly3mwizdq1hm04o
-  
-
 ## Roboflow
-
-Nessa seção deve colocar o link para acessar o dataset no Roboflow
 
 https://universe.roboflow.com/pos/clothing-classification-4xbvj
 
